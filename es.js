@@ -1,5 +1,5 @@
 const con = document.querySelector(".con"),
-        text = "feliz - dia - de - la - madre"
+        text = "feliz - dia - mami - diandra"
         
         const letraFunc = (text)=>{
             let div = document.createElement("div")
